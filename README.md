@@ -30,7 +30,7 @@ Originally built to save time during helpdesk and field support, this script com
 ---
 
 ## Example Menu
-
+```bash
 ================= IT TOOLKIT =================
 1 ) Flush DNS and re-register
 2 ) Reset Winsock
@@ -45,7 +45,7 @@ Originally built to save time during helpdesk and field support, this script com
 11 ) Schedule CHKDSK on C: (/F)
 12 ) Show adapter info (ipconfig /all)
 0 ) Exit
-
+```
 ---
 
 ## Notes
